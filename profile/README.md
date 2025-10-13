@@ -1,4 +1,4 @@
-# 🌐 Adarsha Technology
+# 🌐Vardhaman Technology
 
 Welcome to **Vardhaman** — a growing software company dedicated to building scalable, secure, and innovative digital solutions.  
 We specialize in **cloud-native applications, DevOps automation, and AI-powered platforms** that help businesses transform ideas into impactful products.
